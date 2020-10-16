@@ -1,2 +1,2 @@
-# Working-with-Beutiful-Soup
+# Working-with-Beautiful-Soup
 Web Scraping
